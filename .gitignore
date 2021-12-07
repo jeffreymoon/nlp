@@ -1,0 +1,7 @@
+*.json
+*.txt
+*.h5
+*.tsv
+*.csv
+*.npy
+*.zip
