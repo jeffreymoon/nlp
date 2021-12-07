@@ -5,3 +5,5 @@
 *.csv
 *.npy
 *.zip
+*.ttf
+300features_40minwords_10context
